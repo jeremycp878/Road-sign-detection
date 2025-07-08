@@ -1,0 +1,54 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssrcd
+*.local
+venv/
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Node.js
+node_modules/
+dist/
+build/
+npm-debug.log
+
+# Python/Flask
+__pycache__/
+*.pyc
+instance/
+.env
+
+# Data/Models
+*.h5
+*.npy
+*.pkl
+dataset/
+dataset/Train/00008/
+*.mp4
+*.ppm
+*.csv
+*.h5
+*.npy
+*.mp4
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
